@@ -1,0 +1,4 @@
+https://api.pgstats.com/players/data?playerId=S1009&game=melee
+https://api.pgstats.com/players/opponents?game=melee&playerId=S1009
+https://api.pgstats.com/players/profile?playerId=S1009&game=melee
+https://api.pgstats.com/events/seasons?game=melee
